@@ -48,6 +48,11 @@ a{
   color: #11999E;
 }
 
+a:hover{
+  color: white;
+}
+
+
 .skill-row{
   width: 50%;
   line-height: 2;
